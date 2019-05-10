@@ -83,6 +83,19 @@ barka : féliciter
 baskobol : basketball  
 baya : acheter  
 buke : livre  
+buking : réservation (au restaurant, à l'hotel...)
+bula : bouillir (terme de cuisine)
+bulbul : nightingale
+bulu : bouilli
+bunduke : pistolet (arme de poing)
+burkinia : Burkina Faso
+bus : bus
+buste : buste (poitrine, seins)
+butan : Bhutan
+buton ban : clavier
+buton : bouton (bouton-poussoir, interrupteur)
+buyu' : baobab
+buze : chèvre
 ##c  
 ##d  
 destin : destin (destination)  
